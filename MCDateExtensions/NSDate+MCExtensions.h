@@ -26,6 +26,7 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import <Foundation/NSDate.h>
+#import <Foundation/NSCalendar.h>
 
 @interface NSDate (MCExtensions)
 

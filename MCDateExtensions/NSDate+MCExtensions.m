@@ -26,6 +26,7 @@
 // POSSIBILITY OF SUCH DAMAGE.
 
 #import "NSDate+MCExtensions.h"
+#import <Foundation/Foundation.h>
 
 @implementation NSDate (MCExtensions)
 
